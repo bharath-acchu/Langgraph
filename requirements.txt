@@ -1,2 +1,6 @@
 typing_extensions
 pydantic
+langchain
+langchain-core
+langchain-community
+langgraph
