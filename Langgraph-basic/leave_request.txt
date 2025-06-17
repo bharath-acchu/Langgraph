@@ -1,0 +1,14 @@
+Subject: Leave Request
+
+Dear Jennifer,
+
+This email is to formally request leave from [Start Date] to [End Date].
+
+Reason for leave: Personal reasons
+
+I have already completed all tasks for the current sprint and documented them, we are good for this sprint  . Rahul will handle any adhoc tasks that pop up in my absence.
+
+Thank you for your consideration.
+
+Sincerely,
+Bharath 
