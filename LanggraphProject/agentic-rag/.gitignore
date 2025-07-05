@@ -145,6 +145,10 @@ agrag/
 env.bak/
 venv.bak/
 
+
+data/
+vectorestore/
+
 # Spyder project settings
 .spyderproject
 .spyproject
