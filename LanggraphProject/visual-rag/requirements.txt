@@ -1,0 +1,6 @@
+langchain
+langgraph
+google-generativeai
+gradio
+pillow
+python-dotenv
