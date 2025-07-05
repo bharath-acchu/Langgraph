@@ -27,6 +27,7 @@ var/
 env/
 venv/
 ENV/
+vrag/
 env.bak/
 venv.bak/
 
