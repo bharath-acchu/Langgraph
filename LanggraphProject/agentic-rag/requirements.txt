@@ -1,0 +1,12 @@
+gradio
+langchain
+langchain-community
+langchain-google-genai
+langgraph
+google-generativeai
+faiss-cpu
+pymupdf
+unstructured
+python-docx
+tiktoken
+duckduckgo-search
